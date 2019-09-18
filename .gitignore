@@ -9,11 +9,7 @@ Desktop.ini
 *.egg
 *.egg-info
 build
-.idea/encodings.xml
-.idea/misc.xml
-.idea/modules.xml
-.idea/myproject.iml
-.idea/workspace.xml
+.idea/.
 
 #My configurations:
 db.ini
