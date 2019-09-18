@@ -9,7 +9,7 @@ Desktop.ini
 *.egg
 *.egg-info
 build
-.idea/.
+.idea/*
 
 #My configurations:
 db.ini
