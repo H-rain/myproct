@@ -10,7 +10,13 @@ Desktop.ini
 *.egg-info
 dist
 build
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/myproject.iml
+.idea/workspace.xml
 
 #My configurations:
 db.ini
 deploy_key_rsa
+
